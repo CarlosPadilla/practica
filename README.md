@@ -5,17 +5,18 @@
 1. crea un archivo index.html
 1. ingresa el esqueleto basico html
 ```
-<pre>
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-<article>
-	<h1>Git</h1>
-</article>
-</body>
-</html>
+
+`<!DOCTYPE html>`
+`<html>`
+`<head>`
+`</head>`
+`<body>`
+`<article>`
+	`<h1>Git</h1>`
+`</article>`
+`</body>`
+`</html>`
+
 ```
 1. crea una seccion con titulo donde describas uno de los comandos de git 
 ````
