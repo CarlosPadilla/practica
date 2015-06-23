@@ -5,7 +5,7 @@
 1. crea un archivo index.html
 1. ingresa el esqueleto basico html
 ```
-
+```
 `<!DOCTYPE html>`
 `<html>`
 `<head>`
@@ -23,13 +23,13 @@
 * pull
 * push
 * clone
-* init
+* checkout
 * rebase
 * merge
 * log
 * status
 * commit
-* 
+* branch
 ````
 1. agrega la siguiente url a tu repositorio `https://github.com/CarlosPadilla/practica.git`
 1. fusiona tu branch (rebase)
